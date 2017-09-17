@@ -4,6 +4,8 @@ body {
 
 .navbar {
   margin-bottom: 0; }
+  .navbar img {
+    max-height: 40px; }
 
 .jumbotron {
   padding-top: 6rem;
@@ -34,7 +36,7 @@ body {
   margin-bottom: 2rem;
   border: 0; }
 
-.card > img {
+.card img {
   margin-bottom: .75rem; }
 
 .card-text {
